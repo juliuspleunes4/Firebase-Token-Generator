@@ -27,7 +27,7 @@ It leverages the google-auth library to interact with Google Cloud's authenticat
 Change the SERVICE_ACCOUNT_FILE to the correct destination of the file
 
 NOTE: Make sure it's the destination including the file! 
--Example: 
+- Example: 
 - ✅ C:/Users/You/Desktop/FIREBASE-PROJECT-firebase-adminsdk-hhwin-af156ed22p.json
 - ❌ C:/Users/You/Desktop/
 
@@ -42,5 +42,5 @@ Contributions are welcome! If you find any issues or want to add features, feel 
 ## Contact
 
 For questions or suggestions, please contact the repository owner. 🚀
-Github: juliuspleunes4
-LinkedIn: www.linkedin.com/in/juliuspleunes
+- Github: juliuspleunes4
+- LinkedIn: www.linkedin.com/in/juliuspleunes
